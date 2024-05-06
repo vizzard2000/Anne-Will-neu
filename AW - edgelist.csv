@@ -1,0 +1,39 @@
+from,to,relationship
+ul,cdu,2
+ul,500,1
+lk,spd,2
+lk,500,1
+lk,503,1
+nr,cdu,2
+nr,500,1
+nr,501,1
+sw,linke,2
+sw,500,1
+cs,500,1
+cl,fdp,2
+cl,501,1
+ks,501,1
+lm,501,1
+kd,501,1
+eg,501,1
+ft,502,1
+am,502,1
+agl ,502,1
+agl ,fdp,2
+agl ,504,1
+er,502,1
+rh,grüne,2
+rh,503,1
+cm,503,1
+kp,503,1
+rk,cdu,2
+rk,503,1
+cla,spd,2
+cla,504,1
+ch,504,1
+mw,504,1
+sb,504,1
+os,spd,2
+os,505,1
+ab,grüne,2
+ab,502,1
